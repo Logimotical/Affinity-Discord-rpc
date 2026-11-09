@@ -1,0 +1,28 @@
+(spoiler: sorry, English is not my strongest language and I don't want this guide to become AI Slop)
+
+What it does:
+
+Discord rich presence Python script for affinity app (only for windows 11)
+
+Features:
+
+Auto-Runs when you log into your PC (without having to deal with cmd)
+
+Requirements:
+
+Python
+Psutil
+PyPresence
+Discord Desktop App
+Affinity Desktop App
+
+Installation:
+
+step 1: download the repo
+step 2: extract it
+step 3: run the install_startup.bat
+
+Was AI used in development?
+
+Yes, I used free version Claude Code (LOL)
+
